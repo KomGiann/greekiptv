@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,GR: -Τηλεόραση-
+#EXTINF:-1, ERT 1 FHD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
+#EXTINF:-1, ERT 2 FHD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
+#EXTINF:-1, ERT 3 FHD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_3Mbps.m3u8
+#EXTINF:-1, ERT SPORTS FHD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_4Mbps.m3u8
+#EXTINF:-1, ERT SPORTS 2 FHD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww_4Mbps.m3u8
+#EXTINF:-1, ERT SPORTS 3 FHD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports3_ww_4Mbps.m3u8
+#EXTINF:-1, ERT WORLD HD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+#EXTINF:-1, EURONEWS HD
+https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
+#EXTINF:-1, ONE CHANNEL FHD
+https://streaming.onetv.gr/show/onetv_src/index.m3u8
+#EXTINF:-1,GR: -Ραδιόφωνο-
+#EXTINF:0,PROTO
+http://radiostreaming.ert.gr/ert-proto
+#EXTINF:0,DEFTERO
+http://radiostreaming.ert.gr/ert-deftero
+#EXTINF:0,TRITO
+http://radiostreaming.ert.gr/ert-trito
+#EXTINF:0,ERASPORT
+http://radiostreaming.ert.gr/ert-erasport
+#EXTINF:0,VOICE OF GREECE
+http://radiostreaming.ert.gr/ert-voiceofgreece
+#EXTINF:0,KOSMOS
+http://radiostreaming.ert.gr/ert-kosmos
+#EXTINF:0,ZEPPELIN
+http://radiostreaming.ert.gr/ert-zeppelin
+#EXTINF:0,RED 96.3
+https://stream.radiojar.com/tu0dt525e3quv
+#EXTINF:0,Sto Kokkino 105.5
+http://stream.radiojar.com/kokkino-ath.mp3
+#EXTINF:0,Melodia 99.2
+https://stream.radiojar.com/8du64725e3quv
+#EXTINF:0,Menta 88.0
+http://stream.radiojar.com/menta.aac?1457987195
+#EXTINF:0,Athens Deejay FM 95.2
+http://94.23.0.114:41972
+#EXTINF:0,Sport FM 94.6
+http://sportfm.live24.gr/sportfm7712
+#EXTINF:0,Galaxy 92
+http://galaxy.live24.gr/galaxy9292
+#EXTINF:0,Kiss FM 92.9
+http://kissfm.live24.gr/kiss2111
+#EXTINF:0,MOYSIKOS FM 98.6
+http://netradio.live24.gr/mousikos986
+#EXTINF:0,Sfera 102.2
+http://sfera.live24.gr/sfera4132
